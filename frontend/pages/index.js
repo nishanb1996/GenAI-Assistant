@@ -12,7 +12,7 @@ export default function Home() {
 
         {/* Navbar */}
         <header className="flex items-center justify-between px-8 py-5 bg-[#0b0f19] shadow-md border-b border-gray-800">
-          <h1 className="text-xl font-bold text-purple-300">DevOps Shack</h1>
+          <h1 className="text-xl font-bold text-purple-300">Nishan DevOps</h1>
           <nav className="space-x-6 text-sm">
             <Link href="/" className="hover:text-pink-400">Home</Link>
             <Link href="/interview" className="hover:text-pink-400">Interview Bot</Link>
