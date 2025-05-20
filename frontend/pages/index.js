@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>GenAI Assistant | DevOps Shack</title>
+        <title>GenAI Assistant | Hello Nishan ...</title>
       </Head>
 
       <div className="flex flex-col min-h-screen bg-gradient-to-r from-purple-900 via-black to-blue-900 text-white font-sans">
@@ -20,10 +20,10 @@ export default function Home() {
             <Link href="/devops-assistant" className="hover:text-pink-400">DevOps Assistant</Link>
           </nav>
           <div className="space-x-4">
-            <a href="https://www.youtube.com/@devopsshack" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.youtube.com/@nishanbansode922" target="_blank" rel="noopener noreferrer">
               <img src="/yt.svg" alt="YouTube" className="h-5 inline" />
             </a>
-            <a href="https://www.linkedin.com/in/adityajaiswal7/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/nishan-bansode-875b561a9/" target="_blank" rel="noopener noreferrer">
               <img src="/li.svg" alt="LinkedIn" className="h-5 inline" />
             </a>
           </div>
